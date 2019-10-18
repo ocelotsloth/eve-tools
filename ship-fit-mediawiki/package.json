@@ -1,0 +1,14 @@
+{
+  "name": "ship-fit-mediawiki",
+  "version": "0.1.0",
+  "description": "In-Browser tool to generate mediawiki template from pyfa-compatible ship fit.",
+  "main": "main.js",
+  "repository": "github.com/ocelotsloth/eve-tools/ship-fit-mediawiki",
+  "author": "Mark Stenglein <mark@stengle.in>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "csvtojson": "^2.0.10"
+  }
+}
